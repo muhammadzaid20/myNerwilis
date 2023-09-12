@@ -1,3 +1,3 @@
 # myNerwilis
 
-Thanks to @kizaru1st
+Coppied from @kizaru1st
